@@ -12,7 +12,7 @@ void step_1(int arg)
     else
     {
         //huh i can't type out the key could someone help me
-        //what i'm trying to get is that other one
+        //what i'm trying to get is that horse one
         key = "[REDACTED]";
     }
 }
