@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+
 //double for super cool precision
 double sqrt(double square)
 {
