@@ -18,11 +18,13 @@ void step_1(int arg)
 }
 
 //cases are important
-//ahould also return a char*(string thing i think idk i don't code in c)
-void step_5_attack(char* input)
+char* step_5_attack(char* input)
 {
     //i actually don't know how to encode a vigenere cipher
     //can someone else get on ts
+
+    //for now just returning nothing
+    return "";
 }
 
 int main()
