@@ -20,7 +20,7 @@ void step_1(int arg)
 //cases are important
 void attack(char* input)
 {
-    //i actually don't know how to make a vigenere cipher
+    //i actually don't know how to encode a vigenere cipher
     //can someone else get on ts
 }
 
