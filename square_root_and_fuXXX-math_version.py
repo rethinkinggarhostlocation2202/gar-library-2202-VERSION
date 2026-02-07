@@ -5,8 +5,8 @@ def sqrt(square: float):
         root = (root + square / root) / 2
     return root
 
-#oldf sqrt function
-def _sqrt(square: float):
+#old fuXXX math sqrt function
+def funky_sqrt(square: float):
     root: float = square/3 #division not changed cause it doesn't work that way
     if (square <= 0): return 0
 
