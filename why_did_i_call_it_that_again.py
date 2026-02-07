@@ -8,7 +8,7 @@ def step_1(arg: int):
         key = "[REDACTED]"
 
 def step_5_attack(input: str):
-    #i actually don't know how to encode a vigenere cipher
+    #i actually don't know how to encode a vigenere cipher with a key of attack
     #can someone else get on ts
 
     #for now just returning nothing
