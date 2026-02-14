@@ -1,3 +1,10 @@
+def vigenere(key: str):
+    #i actually don't know how to encode a vigenere cipher with a key of attack
+    #can someone else get on ts
+
+    #for now just returning nothing
+    return ""
+
 def step_1(arg: int):
     key = ""
     if arg == 3:
@@ -7,9 +14,7 @@ def step_1(arg: int):
         #what i'm trying to get is that horse one
         key = "[REDACTED]"
 
-def step_5_attack(input: str):
-    #i actually don't know how to encode a vigenere cipher with a key of attack
-    #can someone else get on ts
+    vigenere(key)
 
-    #for now just returning nothing
-    return ""
+def step_5():
+    vigenere("attack")    
