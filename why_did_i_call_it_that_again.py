@@ -1,5 +1,5 @@
 def vigenere(key: str):
-    #i actually don't know how to encode a vigenere cipher with a key of attack
+    #i actually don't know how to encode a vigenere cipher
     #can someone else get on ts
 
     #for now just returning nothing
