@@ -10,8 +10,7 @@ def step_1(arg: int):
     if arg == 3: #THIS IS VERY IMPORTANT
         key = "spEed"
     else:
-        #huh i can't type out the key could someone help me
-        #what i'm trying to get is that horse one
+        #only a genius horse can figure out the key 
         key = "[REDACTED]"
 
     vigenere(key)
