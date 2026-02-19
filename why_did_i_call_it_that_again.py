@@ -7,7 +7,7 @@ def vigenere(key: str):
 
 def step_1(arg: int):
     key = ""
-    if arg == 3:
+    if arg == 3: #THIS IS VERY IMPORTANT
         key = "spEed"
     else:
         #huh i can't type out the key could someone help me
